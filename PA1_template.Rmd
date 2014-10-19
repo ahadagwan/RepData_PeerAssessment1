@@ -125,3 +125,6 @@ spic=rbind(spiwd,spiwe)
 xyplot(spic[,2]~spic[,1]|spic$day,type="l",layout=c(1,2),xlab="Interval",ylab="Number of steps")
 
 ```
+
+
+**from the plot we can clearly see differences in activity patterns between weekdays and weekends**

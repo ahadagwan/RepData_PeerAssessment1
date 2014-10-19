@@ -134,3 +134,6 @@ xyplot(spic[,2]~spic[,1]|spic$day,type="l",layout=c(1,2),xlab="Interval",ylab="N
 ```
 
 ![plot of chunk unnamed-chunk-11](figure/unnamed-chunk-11.png) 
+
+
+**from the plot we can clearly see differences in activity patterns between weekdays and weekends**
